@@ -102,6 +102,7 @@ The Power BI dashboard provides interactive visualizations that summarize:
 * Prediction insights
 * Overall dataset statistics
 
+---
 
 ## Key Features
 
